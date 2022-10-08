@@ -1,2 +1,6 @@
 /.idea
 /.ipynb_checkpoints
+omdena_viz
+*.pyc
+.DS_Store
+.env
